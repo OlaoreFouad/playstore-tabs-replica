@@ -14,6 +14,7 @@
 		app:tabIndicatorFullWidth="false"
 		app:tabIndicator="@drawable/tab_indicator"
 		app:tabIndicatorColor="@android:color/holo_green_dark"
+		app:tabIndicatorHeight="5dp"
 		app:tabIndicatorGravity="bottom"
         app:layout_constraintTop_toTopOf="parent"
         app:tabBackground="@android:color/white" />
